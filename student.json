@@ -1,0 +1,142 @@
+[
+    {
+        "name": "Bindharan",
+        "surname": "s",
+        "email": "bindharan@gmail.com",
+        "password": "IshuGuvi@123",
+        "mentorId": "b30"
+    },
+    {
+        "name": "aravind",
+        "surname": "Kumar",
+        "email": "aravind@gmail.com",
+        "password": "AmanGuvi@123",
+        "mentorId": "b30"
+    },
+    {
+        "name": "Prathamesh",
+        "surname": "Sarode",
+        "email": "prathu@gmail.com",
+        "password": "prathuGuvi@123",
+        "mentorId": "b29"
+    },
+    {
+        "name": "Deepak",
+        "surname": "Kumar",
+        "email": "deepak@gmail.com",
+        "password": "deepkGuvi@123",
+        "mentorId": "b29"
+    },
+    {
+        "name": "Chetan",
+        "surname": "Gudagamanal",
+        "email": "chetan@gmail.com",
+        "password": "chetanGuvi@123",
+        "mentorId": "b28"
+    },
+    {
+        "name": "Adib",
+        "surname": "Syed",
+        "email": "adib@gmail.com",
+        "password": "adibGuvi@123",
+        "mentorId": "b27"
+    },
+    {
+        "name": "Chinmay",
+        "surname": "Surve",
+        "email": "chin@gmail.com",
+        "password": "chinGuvi@123",
+        "mentorId": "b26"
+    },
+    {
+        "name": "Gopal",
+        "surname": "S",
+        "email": "gopal@gmail.com",
+        "password": "gopalGuvi@123",
+        "mentorId": "b21"
+    },
+    {
+        "name": "Nagaveni",
+        "surname": "T S",
+        "email": "naga@gmail.com",
+        "password": "nagaGuvi@123",
+        "mentorId": "b21"
+    },
+    {
+        "name": "Eswar",
+        "surname": "Chandar",
+        "email": "eswar@gmail.com",
+        "password": "eswarGuvi@123",
+        "mentorId": "b22"
+    },
+    {
+        "name": "Suparnan",
+        "surname": "supa",
+        "email": "suparnan@gmail.com",
+        "password": "supaGuvi@123",
+        "mentorId": "b22"
+    },
+    {
+        "name": "Harish",
+        "surname": "Kumar",
+        "email": "harish@gmail.com",
+        "password": "harishGuvi@123",
+        "mentorId": "b23"
+    },
+    {
+        "name": "Armaan",
+        "surname": "K",
+        "email": "armaan@gmail.com",
+        "password": "armaanGuvi@123",
+        "mentorId": "b24"
+    },
+    {
+        "name": "Subash",
+        "surname": "Chandar",
+        "email": "subash@gmail.com",
+        "password": "subashGuvi@123",
+        "mentorId": "b25"
+    },
+    {
+        "name": "Mohammed Ikram",
+        "surname": "Ikram",
+        "email": "ikram@gmail.com",
+        "password": "ikramGuvi@123",
+        "mentorId": "b24"
+    },
+    {
+        "name": "Sai",
+        "surname": "Anurag",
+        "email": "anurag@gmail.com",
+        "password": "anuragGuvi@123",
+        "mentorId": "b23"
+    },
+    {
+        "name": "Sabarni",
+        "surname": "Pradhan",
+        "email": "sabarni@gmail.com",
+        "password": "sabarnigGuvi@123",
+        "mentorId": "b27"
+    },
+    {
+        "name": "Ashwathy",
+        "surname": "S",
+        "email": "aswathy@gmail.com",
+        "password": "aswathygGuvi@123",
+        "mentorId": "b28"
+    },
+    {
+        "name": "Sharath",
+        "surname": "V",
+        "email": "sharath@gmail.com",
+        "password": "sharathgGuvi@123",
+        "mentorId": "b25"
+    },
+    {
+        "name": "Virat",
+        "surname": "Patel",
+        "email": "virat@gmail.com",
+        "password": "viratgGuvi@123",
+        "mentorId": "b26"
+    }
+]
